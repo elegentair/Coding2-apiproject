@@ -1,1 +1,1 @@
-Coding 2 API Project. I doubt anyone will use this code, as it is private. If so, I licensed the project under the MIT license
+This is a very simple project using the Rest Countries API, providing information about entered countries. It was done for my Coding 2 class.  
